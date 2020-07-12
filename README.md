@@ -4,6 +4,8 @@ Hmmm, populating a personal README.md is harder than it looks.
 
 More to come ...
 
+In the mean time use the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/). The force is strong with this one.
+
 <!--
 **tom-halpin/tom-halpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
