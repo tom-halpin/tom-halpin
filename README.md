@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+Hmmm, populating a personal README.md is harder than it looks.
+
+More to come ...
 
 <!--
 **tom-halpin/tom-halpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
